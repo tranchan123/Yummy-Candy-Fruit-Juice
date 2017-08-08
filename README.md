@@ -1,5 +1,5 @@
 # Yummy-Candy-Fruit-Juice
-Privacy Policy
+# Privacy Policy
 
 SimFun built the Yummy Candy Fruit Juice app as a Free app. This SERVICE is provided by SimFun at no cost and is intended for use as is.
 
